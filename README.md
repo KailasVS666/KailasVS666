@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Kailas 👋
 
-<!--
-**KailasVS666/KailasVS666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML-focused Computer Science student building real-world intelligent systems and full-stack applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🚨 CascadeNet
+AI-powered disaster intelligence platform combining flood prediction, cascade failure simulation, and decision support  
+👉 https://github.com/KailasVS666/CascadeNet-1.0
+
+### 🧠 Student Risk Prediction System
+End-to-end ML system for academic risk assessment with real-time prediction and mentoring insights  
+👉 https://github.com/KailasVS666/student-risk-demo
+
+### 🗺️ Map Text Detection & Recognition
+OCR pipeline for extracting text from historical maps using deep learning  
+👉 https://github.com/KailasVS666/Map_Text_Detection_Recognition
+
+### ✍️ Article Automation System
+AI-powered pipeline for scraping, analyzing, and rewriting blog content  
+👉 https://github.com/KailasVS666/Article_Automation_System
+
+---
+
+## 🛠 Tech Stack
+
+- Python, JavaScript, TypeScript, Java  
+- scikit-learn, pandas, NumPy, OpenCV, TensorFlow, PyTorch  
+- FastAPI, Flask, Node.js, Laravel  
+- React  
+- Git, Firebase  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/kailas-v-sharji/  
+- Email: sharjikailas@gmail.com
