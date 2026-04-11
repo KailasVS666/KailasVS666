@@ -57,12 +57,12 @@ graph TD
 ### <p align="center">📊 Activity Matrix</p>
 
 <p align="center">
-  <img src="https://github.com/KailasVS666/KailasVS666/blob/output/github-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/KailasVS666/KailasVS666/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KailasVS666&show_icons=true&theme=dracula&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=0d1117" alt="Kailas's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailasVS666&layout=compact&theme=dracula&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KailasVS666&show_icons=true&theme=dracula&hide_border=true" alt="Kailas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailasVS666&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
