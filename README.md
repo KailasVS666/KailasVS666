@@ -1,24 +1,64 @@
 # <p align="center">Hi, I'm Kailas 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full-Stack+Developer;Automation+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Engineering+Scalable+AI+Systems;Designing+Semantic+RAG+Architectures;Developing+Autonomous+Agentic+Systems;Building+Full-Stack+Knowledge+Pipelines" alt="Typing SVG" />
 </p>
-
-![ML Engineer Banner](assets/banner.png)
 
 ---
 
-### <p align="center">🛠️ Tech Stack & Skills</p>
+### <p align="center">🧠 Machine Learning Technical Tree</p>
+
+```mermaid
+graph TD
+    %% Node Definitions
+    Foundations[Computer Science Foundations]
+    MLCore[Machine Learning Core]
+    CV[Computer Vision]
+    NLP[Natural Language Processing]
+    GenerativeAI[Generative AI & LLMs]
+    MLOps[MLOps & Deployment]
+    AgenticAI[Autonomous Agentic Systems]
+
+    %% Connections
+    Foundations --> MLCore
+    MLCore --> CV
+    MLCore --> NLP
+    NLP --> GenerativeAI
+    GenerativeAI --> AgenticAI
+    MLCore --> MLOps
+    CV --> MLOps
+
+    %% Styling
+    classDef mastered fill:#0d1117,stroke:#36BCF7,stroke-width:2px,color:#36BCF7
+    classDef learning fill:#0d1117,stroke:#8A2BE2,stroke-width:2px,color:#8A2BE2
+    classDef roadmap fill:#0d1117,stroke:#ffffff,stroke-dasharray: 5 5,color:#ffffff
+
+    class Foundations,MLCore,NLP mastered
+    class GenerativeAI,CV,MLOps learning
+    class AgenticAI roadmap
+```
+
+---
+
+### <p align="center">🛠️ Layered System Architecture</p>
+
+<div align="center">
+
+| **Layer** | **Technologies** |
+| :--- | :--- |
+| **🧠 Modeling & DL** | <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch" /> |
+| **🌐 Interface & Logic** | <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,laravel,fastapi" /> |
+| **⚡ Core Infra** | <img src="https://skillicons.dev/icons?i=mysql,git,docker" /> |
+
+</div>
+
+---
+
+### <p align="center">📊 Activity Matrix</p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,java,sklearn,tensorflow,pytorch,react,nodejs,laravel,fastapi,mysql,git,docker&perline=7" />
-  </a>
+  <img src="https://github.com/KailasVS666/KailasVS666/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
-
----
-
-### <p align="center">📊 GitHub Productivity</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KailasVS666&show_icons=true&theme=dracula&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=0d1117" alt="Kailas's GitHub Stats" />
