@@ -27,16 +27,6 @@
 
 ---
 
-### <p align="center">🌟 Featured Project</p>
-
-<p align="center">
-  <b><a href="https://github.com/KailasVS666/Article_Automation_System">Article Automation System</a></b><br>
-  <i>An end-to-end AI Knowledge Pipeline for content modernization.</i><br>
-  <code>LLM Synthesis</code> • <code>RAG Logic</code> • <code>Deep Crawling</code> • <code>React/Laravel</code>
-</p>
-
----
-
 ### <p align="center">📫 Connect with Me</p>
 
 <p align="center">
