@@ -18,6 +18,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          filename: github-metrics.svg
           
           # Target branch
           output_action: commit

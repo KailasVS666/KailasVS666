@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KailasVS666/KailasVS666/output/metrics.base.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/KailasVS666/KailasVS666/output/github-metrics.svg" alt="Metrics" />
 </p>
 
 ---
